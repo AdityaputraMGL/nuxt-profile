@@ -2,7 +2,7 @@
   <div class="container mt-5">
     <!-- Profile Header -->
     <div class="profile-header text-center mb-5">
-      <img src="https://via.placeholder.com/150" alt="Profile Image" class="rounded-circle profile-img" />
+      <img src="assets/adit.png.jpg" alt="Profile Image" class="rounded-circle profile-img" />
       <h2 class="mt-3">Aditya Putra Manunggal</h2>
       <p class="text-muted">Software Engineer | Web Developer | Technology Enthusiast</p>
       <div class="social-icons mt-3">
