@@ -60,20 +60,16 @@
         <div class="card shadow-lg profile-info-card mb-4">
           <div class="card-header bg-primary text-white">Experience</div>
           <div class="card-body">
-            <h5>Senior Software Engineer</h5>
-            <p class="text-muted">Tech Solutions Ltd. - Jan 2020 - Present</p>
+            <h5></h5>
+            <p class="text-muted"></p>
             <ul>
-              <li>Lead a team of 8 developers in building a large-scale e-commerce platform.</li>
-              <li>Designed and implemented RESTful APIs using Node.js and Express.</li>
-              <li>Collaborated with the frontend team to integrate Vue.js into the web application.</li>
+              <li>My experience was working in Sukakatsu which was in Suhat for 6 months</li>
             </ul>
 
-            <h5>Full Stack Developer</h5>
-            <p class="text-muted">Web Innovators Inc. - Jul 2017 - Dec 2019</p>
+            <h5></h5>
+            <p class="text-muted"></p>
             <ul>
-              <li>Developed and maintained several websites using React, Bootstrap, and Node.js.</li>
-              <li>Managed database operations with MongoDB and SQL databases.</li>
-              <li>Optimized web application performance and improved page load times by 30%.</li>
+              
             </ul>
           </div>
         </div>
